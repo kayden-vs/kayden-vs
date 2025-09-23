@@ -9,7 +9,7 @@
     </h3>
 </a>
 
-Hi there, I'm a backend developer passionate about building performant, server-side rendered web applications. My current focus is crafting efficient and scalable solutions with GoLang.
+Hello! I'm Rohit, a backend developer who genuinely loves building things for the web. I'm especially passionate about crafting snappy, server-side rendered applications. These days, you'll find me happily writing **GoLang**, focusing on creating clean, efficient, and scalable code.
 
 * 🎓 I'm currently pursuing a B.Tech in Computer Science from Techno Main Salt Lake, Kolkata.
 
@@ -23,8 +23,8 @@ Hi there, I'm a backend developer passionate about building performant, server-s
 
 ### 🌱 What I'm Currently Learning
 
-* Diving deep into **GoLang** and the ecosystem, especially using **Templ** for type-safe HTML templating.
-* Building modern, dynamic user interfaces with **HTMX** to create rich web experiences without complex JavaScript.
+* I'm all in on the **GoLang** ecosystem right now. I'm particularly excited about using **Templ** to build type-safe HTML templates.
+* I'm also exploring **HTMX** to build fast, modern user interfaces without the overhead of heavy JavaScript frameworks. I love its simplicity and power.
 
 
 ### My Programming Language Stats
