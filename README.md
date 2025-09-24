@@ -54,10 +54,10 @@ Hello! I'm Rohit, a backend developer who genuinely loves building things for th
   </tr>
 </table>
 
-### 🌱 What I'm Currently Learning
+### 🌱 Current Focus & Interests
 
-* I'm all in on the **Go** ecosystem right now. I'm particularly excited about using **Templ** to build type-safe HTML templates.
-* I'm also exploring **HTMX** to build fast, modern user interfaces without the overhead of heavy JavaScript frameworks. I love its simplicity and power.
+* Deepening my expertise in **Go** by building efficient, scalable backend systems and exploring its applications in **computer networking**.
+* Crafting modern web experiences using **HTMX** and **Templ**, while applying my **web scraping** skills to understand and interact with complex web architectures.
 
 
 ### My Programming Language Stats
