@@ -13,13 +13,39 @@ Hello! I'm Rohit, a backend developer who genuinely loves building things for th
 
 * 🎓 I'm currently pursuing a B.Tech in Computer Science from Techno Main Salt Lake, Kolkata.
 
-### 🚀 What I'm Working With
+### 🚀 My Tech Stack
 
-| **Languages** | **Frameworks & Libraries** | **Databases** | **Tools & Platforms** |
-| :------------ | :------------------------- | :------------- | :------------------- |
-| 🐹 Go         | 📜 Templ                   | 🐘 PostgreSQL  | 🐙 Git & GitHub      |
-| 🐍 Python     | ⚡️ HTMX                    |                | 🐳 Docker            |
-|               | 🌐 Django                  |                |                      |
+<table>
+  <tr>
+    <td align="center" width="180"><strong>Languages</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go"/>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><strong>Frameworks & Libraries</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/Templ-1A1A1A?style=for-the-badge" alt="Templ"/>
+      <img src="https://img.shields.io/badge/htmx-3366CC?style=for-the-badge&logo=htmx&logoColor=white" alt="HTMX"/>
+      <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><strong>Databases</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><strong>Tools & Platforms</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+    </td>
+  </tr>
+</table>
 
 ### 🌱 What I'm Currently Learning
 
