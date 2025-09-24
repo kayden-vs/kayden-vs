@@ -9,7 +9,7 @@
     </h3>
 </a>
 
-Hello! I'm Rohit, a backend developer who genuinely loves building things for the web. I'm especially passionate about crafting snappy, server-side rendered applications. These days, you'll find me happily writing **GoLang**, focusing on creating clean, efficient, and scalable code.
+Hello! I'm Rohit, a backend developer who genuinely loves building things for the web. I'm especially passionate about crafting snappy, server-side rendered applications. These days, you'll find me happily writing **Go**, focusing on creating clean, efficient, and scalable code.
 
 * 🎓 I'm currently pursuing a B.Tech in Computer Science from Techno Main Salt Lake, Kolkata.
 
@@ -17,13 +17,13 @@ Hello! I'm Rohit, a backend developer who genuinely loves building things for th
 
 | **Languages** | **Frameworks & Libraries** | **Databases** | **Tools & Platforms** |
 | :------------ | :------------------------- | :------------- | :------------------- |
-| 🐹 GoLang     | 📜 Templ                   | 🐘 PostgreSQL  | 🐙 Git & GitHub      |
+| 🐹 Go         | 📜 Templ                   | 🐘 PostgreSQL  | 🐙 Git & GitHub      |
 | 🐍 Python     | ⚡️ HTMX                    |                | 🐳 Docker            |
 |               | 🌐 Django                  |                |                      |
 
 ### 🌱 What I'm Currently Learning
 
-* I'm all in on the **GoLang** ecosystem right now. I'm particularly excited about using **Templ** to build type-safe HTML templates.
+* I'm all in on the **Go** ecosystem right now. I'm particularly excited about using **Templ** to build type-safe HTML templates.
 * I'm also exploring **HTMX** to build fast, modern user interfaces without the overhead of heavy JavaScript frameworks. I love its simplicity and power.
 
 
