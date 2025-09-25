@@ -63,7 +63,7 @@ Hello! I'm Rohit, a backend developer who genuinely loves building things for th
 ### My Programming Language Stats
 <!--START_SECTION:waka-->
 
-```rust
+```go
 From: 26 March 2025 - To: 24 September 2025
 
 Total Time: 2 hrs 59 mins
