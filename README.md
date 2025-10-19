@@ -11,10 +11,10 @@
 
 Hello! I'm Rohit, a backend developer who genuinely loves building things for the web. I'm especially passionate about crafting snappy, server-side rendered applications. These days, you'll find me happily writing **Go**, focusing on creating clean, efficient, and scalable code.
 
-* 🎓 I'm currently pursuing a B.Tech in Computer Science from Techno Main Salt Lake, Kolkata.
-* 🕸️ I also have experience with **web scraping** and enjoy analyzing network traffic to understand backend architectures.
+*  I'm currently pursuing a B.Tech in Computer Science from Techno Main Salt Lake, Kolkata.
+*  I also have experience with **web scraping** and enjoy analyzing network traffic to understand backend architectures.
 
-### 🚀 My Tech Stack
+### My Tech Stack
 
 <table>
   <tr>
@@ -54,7 +54,7 @@ Hello! I'm Rohit, a backend developer who genuinely loves building things for th
   </tr>
 </table>
 
-### 🌱 Current Focus & Interests
+### Current Focus & Interests
 
 * Deepening my expertise in **Go** by building efficient, scalable backend systems and exploring its applications in **computer networking**.
 * Crafting modern web experiences using **HTMX** and **Templ**, while applying my **web scraping** skills to understand and interact with complex web architectures.
