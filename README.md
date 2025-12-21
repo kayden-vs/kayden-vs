@@ -64,7 +64,7 @@ Hello! I'm Rohit, a backend developer who genuinely loves building things for th
 <!--START_SECTION:waka-->
 
 ```rust
-From: 17 June 2025 - To: 16 December 2025
+From: 19 June 2025 - To: 18 December 2025
 
 Total Time: 29 hrs 53 mins
 
