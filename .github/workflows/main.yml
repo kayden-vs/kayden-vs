@@ -5,7 +5,7 @@ on:
   workflow_dispatch:
   schedule:
     # runs every 2 days at 00:00 UTC (05:30 AM IST)
-    - cron: "0 0 */2 * *"
+    - cron: "0 0 */3 * *"
 
 permissions:
   contents: write
