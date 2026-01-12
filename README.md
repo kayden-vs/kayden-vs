@@ -64,14 +64,14 @@ Hello! I'm Rohit, a backend developer who genuinely loves building things for th
 <!--START_SECTION:waka-->
 
 ```rust
-From: 11 July 2025 - To: 09 January 2026
+From: 12 July 2025 - To: 10 January 2026
 
-Total Time: 35 hrs 50 mins
+Total Time: 36 hrs 38 mins
 
-Go                25 hrs 57 mins  >>>>>>>>>>>>>>>>>>-------   72.01 %
-templ             2 hrs 55 mins   >>-----------------------   08.10 %
-Docker            49 mins         >------------------------   02.30 %
-JavaScript        44 mins         >------------------------   02.05 %
+Go                26 hrs 45 mins  >>>>>>>>>>>>>>>>>>-------   72.61 %
+templ             2 hrs 55 mins   >>-----------------------   07.92 %
+Docker            49 mins         >------------------------   02.25 %
+JavaScript        44 mins         >------------------------   02.00 %
 ```
 
 <!--END_SECTION:waka-->
