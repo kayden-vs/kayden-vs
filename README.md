@@ -2,12 +2,10 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hey+There,+I'm+Rohit👋;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-<a href="https://discord.gg/5dZPVytKnn">
-    <h3 align="center">
-        <img src="https://i.imgur.com/5XG3bRq.png" width="280"><br>
-        Back-end Developer
-    </h3>
-</a>
+<h3 align="center">
+    <img src="https://i.imgur.com/5XG3bRq.png" width="280"><br>
+    Back-end Developer
+</h3>
 
 Hello! I'm Rohit, a backend developer who genuinely loves building things for the web. I'm especially passionate about crafting snappy, server-side rendered applications. These days, you'll find me happily writing **Go**, focusing on creating clean, efficient, and scalable code.
 
