@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hey+There,+I'm+Rohit👋;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <h3 align="center">
-    <img src="https://i.imgur.com/5XG3bRq.png" width="280"><br>
+    <img src="./logo_image.png" width="280"><br>
     Back-end Developer
 </h3>
 
