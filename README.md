@@ -26,6 +26,7 @@ Hello! I'm Rohit, a backend developer who genuinely loves building things for th
   <tr>
     <td align="center"><strong>Frameworks & Libraries</strong></td>
     <td>
+      <img src="https://img.shields.io/badge/gRPC-244c5a?style=for-the-badge&logo=grpc&logoColor=white" alt="gRPC"/>
       <img src="https://img.shields.io/badge/Templ-1A1A1A?style=for-the-badge" alt="Templ"/>
       <img src="https://img.shields.io/badge/htmx-3366CC?style=for-the-badge&logo=htmx&logoColor=white" alt="HTMX"/>
       <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
