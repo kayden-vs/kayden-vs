@@ -75,6 +75,8 @@ HTML              4 hrs 19 mins         >------------------------   04.43 %
 
 <!--END_SECTION:waka-->
 
+[![Rohit Roy profile views](https://u8views.com/api/v1/github/profiles/78499239/views/day-week-month-total-count.svg)](https://u8views.com/github/kayden-vs)
+
 <div align="center">
   <a href = "mailto:connect.rohitroy@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/rohit-roy-vs/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
