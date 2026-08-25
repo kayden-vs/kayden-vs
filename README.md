@@ -43,7 +43,7 @@ I learn best by building, breaking, profiling, and rebuilding things.
       <img src="https://img.shields.io/badge/tRPC-3366CC?style=for-the-badge&logo=tRPC&logoColor=white" alt="tRPC"/>
       <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
       <img src="https://img.shields.io/badge/Microservices-43B02A?style=for-the-badge&logo=microservices&logoColor=white" alt="Microservices"/>
-      <img src="https://img.shields.io/badge/Scrapling-14E234?style=for-the-badge&logo=scrapling&logoColor=white" alt="Scrapling"/>
+      <!-- <img src="https://img.shields.io/badge/Scrapling-14E234?style=for-the-badge&logo=scrapling&logoColor=white" alt="Scrapling"/> -->
       <img src="https://img.shields.io/badge/Templ-1A1A1A?style=for-the-badge" alt="Templ"/>
     </td>
   </tr>
