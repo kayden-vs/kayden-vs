@@ -40,11 +40,12 @@ I learn best by building, breaking, profiling, and rebuilding things.
     <td>
       <img src="https://img.shields.io/badge/gRPC-244c5a?style=for-the-badge&logo=grpc&logoColor=white" alt="gRPC"/>
       <img src="https://img.shields.io/badge/Protobuf-092E20?style=for-the-badge&logo=protobuf&logoColor=white" alt="Protobuf"/>
+      <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white" alt="Kafka"/>
       <img src="https://img.shields.io/badge/tRPC-3366CC?style=for-the-badge&logo=tRPC&logoColor=white" alt="tRPC"/>
       <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
       <img src="https://img.shields.io/badge/Microservices-43B02A?style=for-the-badge&logo=microservices&logoColor=white" alt="Microservices"/>
       <!-- <img src="https://img.shields.io/badge/Scrapling-14E234?style=for-the-badge&logo=scrapling&logoColor=white" alt="Scrapling"/> -->
-      <img src="https://img.shields.io/badge/Templ-1A1A1A?style=for-the-badge" alt="Templ"/>
+      <!-- <img src="https://img.shields.io/badge/Templ-1A1A1A?style=for-the-badge" alt="Templ"/> -->
     </td>
   </tr>
   <tr>
