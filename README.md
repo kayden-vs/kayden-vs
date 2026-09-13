@@ -83,14 +83,14 @@ I also do competitive programming from time to time, mostly because solving a pr
 <!--START_SECTION:waka-->
 
 ```rust
-From: 08 March 2026 - To: 06 September 2026
+From: 11 March 2026 - To: 09 September 2026
 
-Total Time: 70 hrs 13 mins
+Total Time: 67 hrs 48 mins
 
-Markdown          13 hrs 40 mins        >>>>---------------------   17.79 %
-Go                11 hrs 50 mins        >>>>---------------------   15.41 %
-Python            10 hrs 6 mins         >>>----------------------   13.15 %
-Other             6 hrs 38 mins         >>-----------------------   08.64 %
+Markdown          15 hrs 1 min          >>>>>--------------------   19.92 %
+Go                10 hrs 57 mins        >>>>---------------------   14.53 %
+Python            10 hrs 6 mins         >>>----------------------   13.40 %
+Other             7 hrs 37 mins         >>>----------------------   10.10 %
 ```
 
 <!--END_SECTION:waka-->
