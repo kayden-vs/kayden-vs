@@ -95,8 +95,6 @@ Other             9 hrs 54 mins         >>>----------------------   12.79 %
 
 <!--END_SECTION:waka-->
 
-[![Rohit Roy profile views](https://u8views.com/api/v1/github/profiles/78499239/views/day-week-month-total-count.svg)](https://u8views.com/github/kayden-vs)
-
 <h2 align="center"> Find Me </h2>
 <div align="center">
   <a href = "mailto:connect.rohitroy@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
