@@ -79,22 +79,6 @@ Outside of programming, I spend some of my time studying and trading forex. I en
 I also do competitive programming from time to time, mostly because solving a problem in an empty editor is a nice change of pace from debugging one in a real codebase.
 
 
-### My Programming Language Stats
-<!--START_SECTION:waka-->
-
-```rust
-From: 14 March 2026 - To: 12 September 2026
-
-Total Time: 67 hrs 35 mins
-
-Markdown          15 hrs 1 min          >>>>>--------------------   19.38 %
-Go                10 hrs 36 mins        >>>----------------------   13.68 %
-Python            10 hrs 6 mins         >>>----------------------   13.04 %
-Other             9 hrs 54 mins         >>>----------------------   12.79 %
-```
-
-<!--END_SECTION:waka-->
-
 <h2 align="center"> Find Me </h2>
 <div align="center">
   <a href = "mailto:connect.rohitroy@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
